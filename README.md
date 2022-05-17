@@ -9,7 +9,7 @@ The goal of this assessment is for you to show us your knowledge and skills as a
 <br/>
 You are free to make choices with regards to applying every principle and practice that you would in real situation so that
 this solution satisfies all the coding standards.
-<br/>
+
 ### Objectives :
 - The application should be ready to run out of the box
 - Refactor code using best practices and clean code
